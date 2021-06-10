@@ -3,7 +3,7 @@ id: lorem-ipsum
 title: DIAMOND 6 LBS. LAMB MEAL & RICE ADULT 2.722 kgs
 description: >-
   SKU:LAM6 
-  
+  * * * * *
   
 La proteína del cordero proporciona la nutrición óptima para los
   perros que prefieren el sabor del cordero, o son sensibles al pollo o al maíz.
