@@ -18,7 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/190616630_823381111917871_8159280745913513324_n.jpeg
-default_original_image: images/smart-eggplant.jpg
+default_original_image: images/super-moon.jpeg
 category: category/cactuses.md
 ---
 ## Lorem ipsum
